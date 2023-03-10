@@ -1,4 +1,4 @@
-import PropTypes from 'prop-types';
+import PropTypes from "prop-types";
 import { DataStat } from "components/Statistics/Stats/Stats";
 import { StatisticsSection, StatList, Title } from "./Statistics.styled";
 

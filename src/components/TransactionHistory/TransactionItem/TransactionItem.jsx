@@ -1,4 +1,4 @@
-import PropTypes from 'prop-types';
+import PropTypes from "prop-types";
 import { Td, Tr } from "./TransactionItem.styled";
 
 export const TransactionItem = ({ type, amount, currency}) => {

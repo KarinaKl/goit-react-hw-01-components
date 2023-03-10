@@ -1,4 +1,4 @@
-import PropTypes from 'prop-types';
+import PropTypes from "prop-types";
 import { StatListItem, Percentage, Label } from "./Stats.styled";
 
 export const DataStat = ({ label, percentage }) => {

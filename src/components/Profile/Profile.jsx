@@ -1,6 +1,6 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import { ProfileContainer, Description, Stats, Avatar, Tag, StatsItem, Label, Quantity, Name, Location } from './Profile.styled';
+import React from "react";
+import PropTypes from "prop-types";
+import { ProfileContainer, Description, Stats, Avatar, Tag, StatsItem, Label, Quantity, Name, Location } from "./Profile.styled";
 
 export const Profile = ({ username, tag, location, avatar, stats }) => {
     return <ProfileContainer>
